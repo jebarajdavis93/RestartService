@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerServices>
+<Domain>prfvhe01</Domain>
+<UserName>administrator</UserName>
+<Password>st3nt0r</Password>
+<ServerService>
+<ServerList>192.168.156.22,192.168.156.23,192.168.156.24,192.168.156.25,192.168.156.26,192.168.156.28,192.168.156.29,192.168.156.31,192.168.156.32,192.168.156.33,192.168.156.34,192.168.156.35,192.168.156.36,192.168.156.39,192.168.156.40,192.168.156.41,192.168.156.42,192.168.156.43,192.168.156.47</ServerList>
+<ServiceList>iSite Monitor</ServiceList>
+</ServerService>
+</ServerServices>

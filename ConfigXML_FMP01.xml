@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerServices>
+<Domain>FMP01</Domain>
+<UserName>Phiadmin</UserName>
+<Password>1nf0M@t1csPh!lt0r</Password>
+<ServerService>
+<ServerList>172.18.1.100</ServerList>
+<ServiceList>Active Directory Domain Services</ServiceList>
+</ServerService>
+<ServerService>
+<ServerList>172.18.1.101</ServerList>
+<ServiceList>SQL Server (MSSQLSERVER),SQL Server Agent (MSSQLSERVER),SQL Server Integration Services 10.0</ServiceList>
+</ServerService>
+<ServerService>
+<ServerList>172.18.1.103</ServerList>
+<ServiceList>iSite Monitor,RabbitMQ,SQL Server (MSSQLSERVER),Windows Process Activation Service,World Wide Web Publishing Service</ServiceList>
+</ServerService>
+<ServerService>
+<ServerList>172.18.1.122,172.18.1.163,172.18.1.123,172.18.1.124,172.18.1.157,172.18.1.158,172.18.1.159,172.18.1.160,172.18.1.161,172.18.1.162,172.18.1.107,172.18.1.108,172.18.1.109,172.18.1.110,172.18.1.111,172.18.1.147,172.18.1.131,172.18.1.132,172.18.1.104,172.18.1.105,172.18.1.134,172.18.1.115,172.18.1.126,172.18.1.127,172.18.1.112,172.18.1.113,172.18.1.114,172.18.1.128,172.18.1.129,172.18.1.130,172.18.1.149,172.18.1.150,172.18.1.151,172.18.1.152,172.18.1.153,172.18.1.154,172.18.1.155,172.18.1.156,135,172.18.1.131,172.18.1.132,172.18.1.134,172.18.1.133,172.18.1.136,172.18.1.116,172.18.1.117,172.18.1.118</ServerList>
+<ServiceList>iSite Monitor,SQL Server (MSSQLSERVER),Windows Process Activation Service,World Wide Web Publishing Service</ServiceList>
+</ServerService>
+<ServerService>
+<ServerList>172.18.1.106</ServerList>
+<ServiceList>Rhapsody 6.2.0,IIS Admin Service,World Wide Web Publishing Service,Windows Process Activation Service,Net.Msmq Listener Adapter,Net.Pipe Listener Adapter,Net.Tcp Listener Adapter,W3C Logging Service</ServiceList>
+</ServerService>
+</ServerServices>

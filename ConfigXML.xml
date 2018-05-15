@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerServices>
+<Domain>prfvhe01</Domain>
+<UserName>administrator</UserName>
+<Password>st3nt0r</Password>
+<ServerService>
+<ServerList>192.168.156.31</ServerList>
+<ServiceList>iSite Monitor</ServiceList>
+</ServerService>
+</ServerServices>

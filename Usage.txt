@@ -1,0 +1,7 @@
+Run powershell as administrator.
+Navigate to the folder where ServerHealthCheck.ps1 and ConfigXML.xml files placed.
+Update ConfigXML as per the iVault configuration.
+Invoke ServerHealthCheck.ps1 by passing ConfigXML.xml as input.
+Report will be generated in the same folder.
+
+Note: Run this from MG node to get the report in minimum time.
